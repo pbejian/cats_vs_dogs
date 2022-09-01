@@ -6,7 +6,6 @@ import pickle
 import numpy as np
 from tensorflow.keras.preprocessing import image
 from PIL import Image
-import pickle
 import include as inc
 
 
@@ -62,6 +61,6 @@ st.markdown("""
 inc.espace(2)
 st.write("""
 📝 Sources de l'application :
-[https://github.com/pbejian/gradient](https://github.com/pbejian/gradient)
+[https://github.com/pbejian/cats_vs_dogs](https://github.com/pbejian/cats_vs_dogs)
 """)
 #-------------------------------------------------------------------------------

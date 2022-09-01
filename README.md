@@ -2,7 +2,7 @@
 
 L'application est exécutable en ligne à l'adresse suivante :
 
-🚀 [https://pbejian-gradient-app-90m6ms.streamlitapp.com/](https://pbejian-gradient-app-90m6ms.streamlitapp.com/).
+🚀 [https://pbejian-cats-vs-dogs-app-556gra.streamlitapp.com/](https://pbejian-cats-vs-dogs-app-556gra.streamlitapp.com/).
 
 
 Il s'agit d'une classification binaire réalisée avec un réseau de neurones 
