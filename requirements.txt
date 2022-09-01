@@ -1,5 +1,5 @@
 numpy
-PIL
+PILLOW
 tensorflow
 streamlit
 pickle
