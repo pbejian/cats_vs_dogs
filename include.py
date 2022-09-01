@@ -29,8 +29,8 @@ def prediction(filename):
     prédiction faite par le modèle CNN. On rappelle que ce modèle déjà
     entraîné est stocké dans le fichier 'my_model.pkl'.
     """
-    filename = 'my_model.pkl'
-    loaded_model = pickle.load(open(filename, 'rb'))
+    model_filename = 'my_model.pkl'
+    loaded_model = pickle.load(open(model_filename, 'rb'))
     img = image.load_img(filename, target_size=(150, 150))
     x = image.img_to_array(img)
     x = x/255.
@@ -44,5 +44,3 @@ def prediction(filename):
         return "chien 🐶"
     else:
         return "Erreur"
-
-
