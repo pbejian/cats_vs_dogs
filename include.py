@@ -39,9 +39,9 @@ def prediction(filename):
     result = loaded_model.predict(images)    
     result = result[0][0]
     if round(result) == 0:
-        return "chat"
+        return "chat 🐱"
     elif round(result) == 1:
-        return "chien"
+        return "chien 🐶"
     else:
         return "Erreur"
 
