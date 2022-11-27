@@ -12,7 +12,7 @@ import include as inc
 #-------------------------------------------------------------------------------
 # Application principale
 
-st.title("Chient ou chat ?")
+st.title("Chien ou chat ?")
 st.write("""
     ### Un exemple de classification binaire à l'aide d'un CNN
 
