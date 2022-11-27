@@ -2,7 +2,7 @@ import numpy as np
 from PIL import Image
 from tensorflow.keras.preprocessing import image
 import streamlit as st
-import pickle
+import pickle 
 
 
 def espace(n):
