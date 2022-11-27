@@ -2,4 +2,3 @@ numpy
 PILLOW
 tensorflow
 streamlit
-pickle
