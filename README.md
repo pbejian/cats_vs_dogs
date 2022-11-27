@@ -2,7 +2,7 @@
 
 L'application est exécutable en ligne à l'adresse suivante :
 
-🚀 [https://pbejian-cats-vs-dogs-app-556gra.streamlitapp.com/](https://pbejian-cats-vs-dogs-app-556gra.streamlitapp.com/).
+🚀 [https://pbejian-dogs-vs-cats-app-b7fnhh.streamlit.app/](https://pbejian-dogs-vs-cats-app-b7fnhh.streamlit.app/).
 
 
 Il s'agit d'une classification binaire réalisée avec un réseau de neurones 

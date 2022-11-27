@@ -61,6 +61,6 @@ st.markdown("""
 inc.espace(2)
 st.write("""
 📝 Sources de l'application :
-[https://github.com/pbejian/cats_vs_dogs](https://github.com/pbejian/cats_vs_dogs)
+[https://github.com/pbejian/dogs_vs_cats](https://github.com/pbejian/dogs_vs_cats)
 """)
 #-------------------------------------------------------------------------------
